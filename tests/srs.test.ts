@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { applyReview, SRS_DEFAULTS } from '@/lib/srs'
+import { applyReview, SRS_DEFAULTS } from '../src/srs'
 
 describe('applyReview (SM-2 lite)', () => {
   const now = new Date('2026-08-06T12:00:00Z')
