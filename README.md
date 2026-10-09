@@ -2,6 +2,8 @@
 
 > A tiny, dependency-free spaced-repetition engine for vocabulary apps, flashcards, and study tools.
 
+[English](README.md) · [中文](README.zh-CN.md)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](./src/srs.ts) [![Tests](https://img.shields.io/badge/tests-Vitest-6e9f18)](./tests/srs.test.ts) [![License](https://img.shields.io/badge/license-GPL--3.0-green)](./LICENSE)
 
 EZTor SRS Core is the small piece of the EZTor learning platform that decides when a learner should see a card again. It keeps the model intentionally understandable: repetitions, interval, ease, lapses, and due date.
