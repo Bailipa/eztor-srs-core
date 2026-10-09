@@ -1,0 +1,1 @@
+{"name":"@eztor/srs-core","version":"0.1.0","description":"A tiny, dependency-free TypeScript spaced-repetition engine inspired by SM-2.","type":"module","scripts":{"test":"vitest run"},"devDependencies":{"@types/node":"^20.0.0","typescript":"^5.0.0","vitest":"^1.6.0"}}
