@@ -8,6 +8,10 @@
 
 EZTor SRS Core 是 EZTor 学习平台中负责安排复习时间的独立模块。它只保留几个容易理解的状态：连续答对次数、复习间隔、难度系数、遗忘次数和下次复习时间。
 
+## 在线 Demo
+
+[打开交互式 Demo](https://bailipa.github.io/eztor-srs-core/) · [查看示例](examples/)
+
 ## 使用方式
 
 核心实现只有一个 TypeScript 文件，没有运行时依赖。可以直接复制 [`src/srs.ts`](src/srs.ts)，也可以按自己的包管理方式发布。

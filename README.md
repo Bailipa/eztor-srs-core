@@ -8,6 +8,10 @@
 
 EZTor SRS Core is the small piece of the EZTor learning platform that decides when a learner should see a card again. It keeps the model intentionally understandable: repetitions, interval, ease, lapses, and due date.
 
+## Live demo
+
+[Open the interactive demo](https://bailipa.github.io/eztor-srs-core/) · [Try the examples](examples/)
+
 ## Install or copy
 
 The core is one TypeScript file with no runtime dependencies. Copy [`src/srs.ts`](src/srs.ts) into your project or publish it through your preferred package registry.
